@@ -23,22 +23,22 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[im01]: https://github.com/jseung21/Car-Lane-Finding/blob/master//output_images/01-calibration.png "Chessboard Calibration"
-[im02]: ./output_images/02-undistort_chessboard.png "Undistorted Chessboard"
-[im03]: ./output_images/03-undistort.png "Undistorted Dashcam Image"
-[im04]: ./output_images/04-unwarp.png "Perspective Transform"
-[im05]: ./output_images/05-colorspace_exploration.png "Colorspace Exploration"
-[im06]: ./output_images/09-sobel_magnitude_and_direction.png "Sobel Magnitude & Direction"
-[im07]: ./output_images/11-hls_l_channel.png "HLS L-Channel"
-[im08]: ./output_images/12-lab_b_channel.png "LAB B-Channel"
-[im09]: ./output_images/13-pipeline_all_test_images.png "Processing Pipeline for All Test Images"
-[im10]: ./output_images/14-sliding_window_polyfit.png "Sliding Window Polyfit"
-[im11]: ./output_images/15-sliding_window_histogram.png "Sliding Window Histogram"
-[im12]: ./output_images/16-polyfit_from_previous_fit.png "Polyfit Using Previous Fit"
-[im13]: ./output_images/17-draw_lane.png "Lane Drawn onto Original Image"
-[im14]: ./output_images/18-draw_data.png "Data Drawn onto Original Image"
+[im01]: https://github.com/jseung21/Car-Lane-Finding/blob/master/output_images/01-calibration.png "Chessboard Calibration"
+[im02]: https://github.com/jseung21/Car-Lane-Finding/blob/master/output_images/02-undistort_chessboard.png "Undistorted Chessboard"
+[im03]: https://github.com/jseung21/Car-Lane-Finding/blob/master/output_images/03-undistort.png "Undistorted Dashcam Image"
+[im04]: https://github.com/jseung21/Car-Lane-Finding/blob/master/output_images/04-unwarp.png "Perspective Transform"
+[im05]: https://github.com/jseung21/Car-Lane-Finding/blob/master/output_images/05-colorspace_exploration.png "Colorspace Exploration"
+[im06]: https://github.com/jseung21/Car-Lane-Finding/blob/master/output_images/09-sobel_magnitude_and_direction.png "Sobel Magnitude & Direction"
+[im07]: https://github.com/jseung21/Car-Lane-Finding/blob/master/output_images/11-hls_l_channel.png "HLS L-Channel"
+[im08]: https://github.com/jseung21/Car-Lane-Finding/blob/master/output_images/12-lab_b_channel.png "LAB B-Channel"
+[im09]: https://github.com/jseung21/Car-Lane-Finding/blob/master/output_images/13-pipeline_all_test_images.png "Processing Pipeline for All Test Images"
+[im10]: https://github.com/jseung21/Car-Lane-Finding/blob/master/output_images/14-sliding_window_polyfit.png "Sliding Window Polyfit"
+[im11]: https://github.com/jseung21/Car-Lane-Finding/blob/master/output_images/15-sliding_window_histogram.png "Sliding Window Histogram"
+[im12]: https://github.com/jseung21/Car-Lane-Finding/blob/master/output_images/16-polyfit_from_previous_fit.png "Polyfit Using Previous Fit"
+[im13]: https://github.com/jseung21/Car-Lane-Finding/blob/master/output_images/17-draw_lane.png "Lane Drawn onto Original Image"
+[im14]: https://github.com/jseung21/Car-Lane-Finding/blob/master/output_images/18-draw_data.png "Data Drawn onto Original Image"
 
-[video1]: ./project_video_output.mp4 "Video"
+[video1]: https://github.com/jseung21/Car-Lane-Finding/blob/master/project_video_output.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 *Here I will consider the rubric points individually and describe how I addressed each point in my implementation.*
